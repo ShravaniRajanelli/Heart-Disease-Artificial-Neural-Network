@@ -14,8 +14,8 @@ Each attribute in the heart disease dataset is a medical risk factor.
 
 ### Variable Description:
 
-|Column|	Description|
-| |  |
+|**Column**|**Description**|
+|----- | ----- |
 |age|	Age of the patient|
 |gender|	Gender of the patient - (0,1) - (Male, Female)|
 |chest_pain |	It refers to the chest pain experienced by the patient -(0,1,2,3)|
